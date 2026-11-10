@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "rosegold",
+  "version": "1.0.0",
+  "description": "Get offers and rewards matched to what you buy on Amazon, with a single prompt to your AI assistant.",
+  "author": {
+    "name": "rosegold",
+    "url": "https://rosegold.app"
+  },
+  "homepage": "https://rosegold.app/?utm_source=hermes_catalog&utm_campaign=listing",
+  "repository": "https://github.com/rosegold-app/hermes-plugin",
+  "keywords": ["amazon", "shopping", "offers", "rewards", "mcp"]
+}

@@ -20,7 +20,8 @@ until `hermes mcp remove rosegold`.
 
 ## What to ask
 
-- "Share my recent Amazon purchases with rosegold." This needs a Gmail tool in Hermes.
+- "Share my recent Amazon purchases with rosegold. Use Himalaya or another Gmail tool to check my emails." This
+  needs a Gmail tool in Hermes.
 - "What creator codes are available for Gymshark, check the rosegold connector."
 - "What does rosegold say I've spent on Amazon?"
 
@@ -35,4 +36,4 @@ until `hermes mcp remove rosegold`.
   rosegold keeps any brand you name.
 - Under Hermes's default trust, rosegold's tools run without asking first.
 
-[Privacy policy](https://rosegold.app/privacy). Version 1.0.0.
+[Privacy policy](https://rosegold.app/privacy). Version 1.0.1.

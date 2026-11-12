@@ -33,7 +33,6 @@ until `hermes mcp remove rosegold`.
   email's id and date, and each order's number, items and prices; never names, addresses or payment details. We do
   not connect to your Gmail account.
 - Looking up brings the offers rosegold has for you, and your spending by month and kind of thing, into the chat.
-  rosegold keeps any brand you name.
 - Under Hermes's default trust, rosegold's tools run without asking first.
 
 [Privacy policy](https://rosegold.app/privacy). Version 1.0.1.
